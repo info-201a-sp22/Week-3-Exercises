@@ -21,5 +21,5 @@
 # and save it in your list as the element at index 5 (no reason beyond practice)
 
 
-# Use single-bracket notation to extract your breakfast and lunch from your list
-# and save them to a list called `early_meals`
+# Use single-bracket notation and index numbers to extract your breakfast
+# and lunch from your list and save them to a list called `early_meals`
