@@ -6,7 +6,7 @@
 # Create a vector `my_lunch` of everything you ate (or will eat) for lunch
 
 
-# Create a list `meals` that has contains your breakfast and lunch
+# Create a list `meals` that has contains your breakfast and lunch (remember to label your list elements using `=`)
 
 
 # Add a "dinner" element to your `meals` list that has what you plan to eat
