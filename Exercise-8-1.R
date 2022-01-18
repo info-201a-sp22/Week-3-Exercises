@@ -17,7 +17,7 @@
 # and save it in a vector called 'dinner'
 
 
-# Use double-bracket notation to extract your `lunch` element from your list
+# Use double-bracket notation to extract your `my_lunch` element from your list
 # and save it in your list as the element at index 5 (no reason beyond practice)
 
 
