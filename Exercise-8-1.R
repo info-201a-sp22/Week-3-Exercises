@@ -17,9 +17,9 @@ meals$dinner <- c("curry", "rice")
 # and save it in a vector called 'dinner'
 dinner <- meals$dinner
 
-# Use double-bracket notation to extract your `lunch` element from your list
+# Use double-bracket notation to extract your `my_lunch` element from your list
 # and save it in your list as the element at index 5 (no reason beyond practice)
-meals[[5]] <- meals[["lunch"]]
+meals[[5]] <- meals[["my_lunch"]]
 
 # Use single-bracket notation to extract your breakfast and lunch from your list
 # and save them to a list called `early_meals`
