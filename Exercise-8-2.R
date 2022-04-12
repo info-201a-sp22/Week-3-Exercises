@@ -12,7 +12,6 @@ austen_text <- "It is a truth universally acknowledged, that a single man in pos
 # Hint: split on `" "` to split on white space or "\\W+" to split on white space and punctuation
 # Note: this will return a _list_ with 1 element (which is the vector of letters)
 
-
 # Extract the vector of words from the resulting list, and assign it to the variable `words`
 
 # Use the `unique()` function to get a vector of unique words
